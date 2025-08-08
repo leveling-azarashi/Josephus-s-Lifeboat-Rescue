@@ -41,7 +41,3 @@ This problem explores a **rule-based elimination system**, different from the cl
 * **Python**
 * Basic control flow and list operations
 * Optional: Can be extended with GUI or animation for visualization
-
----
-
-Let me know if you'd like me to generate the entire `README.md` structure including setup, usage, and license sections too, Azarashi Heika.
