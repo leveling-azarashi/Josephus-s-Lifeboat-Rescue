@@ -41,3 +41,7 @@ This problem explores a **rule-based elimination system**, different from the cl
 * **Python**
 * Basic control flow and list operations
 * Optional: Can be extended with GUI or animation for visualization
+
+* **OpenAI**
+* Optimisation Of Code
+* Simplification Of Code
